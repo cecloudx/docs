@@ -2,4 +2,4 @@ pages:
   - path: /
     action: serve
     branch: gh-pages
-    dir: docs/.vitepress/dist
+    dir: /
