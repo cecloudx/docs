@@ -3,18 +3,17 @@
 layout: home
 
 hero:
-  name: "工一数字"
+  name: "工一云电脑"
   # text: "Civil Engineering Cloud"
-  # tagline: 工一数字 | 用数字技术重塑传统工程
-  tagline: 用数字技术重塑传统工程
+  tagline: 工一数字 | 用数字技术重塑传统工程
 
   actions:
     - theme: brand
-      text: 工一云电脑
-      link: /cc
-    # - theme: alt
-    #   text: 工一云电脑
-    #   link: /api-examples
+      text: 快速开始
+      link: /start
+    - theme: alt
+      text: 配置说明
+      link: /config
 
 features:
   - title: 产品介绍
