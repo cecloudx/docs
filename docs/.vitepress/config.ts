@@ -32,8 +32,8 @@ export default defineConfig({
     
         algolia: {
           appId: 'N26XKP71HQ',
-          apiKey: '...',
-          indexName: 'b68973e86f1cea6fe107eecb587b3d40',
+          apiKey: 'b68973e86f1cea6fe107eecb587b3d40',
+          indexName: 'cc-index',
           locales: {
             zh: {
               placeholder: '搜索文档',
