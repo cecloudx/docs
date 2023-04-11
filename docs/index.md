@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "工一云电脑22"
+  name: "工一云电脑"
   # text: "Civil Engineering Cloud"
   tagline: 工一数字 | 用数字技术重塑传统工程
 
