@@ -24,8 +24,14 @@ export default defineConfig({
       }
     ],
 
+
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/cecloudx/docs' },
+    ],
+
+    editLink: {
+      pattern: 'https://github.com/cecloudx/docs/edit/main/docs/:path',
+      text: 'Edit this page on GitHub'
+    },
   }
 })
