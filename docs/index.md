@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "title555555555"
+  name: "title5666666"
   text: "description"
   tagline: My great project tagline
   actions:

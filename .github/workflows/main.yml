@@ -28,9 +28,13 @@ jobs:
       - uses: actions/upload-pages-artifact@v1
         with:
           path: docs/.vitepress/dist
+          publish_branch: gh-pages  #增加
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v1
+
+        # with:
+        #   publish_branch: gh-pages
 
 
 
