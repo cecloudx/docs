@@ -15,7 +15,7 @@ export default defineConfig({
     algolia: {
         appId: 'N26XKP71HQ', // 需要替换
         apiKey: 'b68973e86f1cea6fe107eecb587b3d40', // 需要替换
-        indexName: 'co-docs-index', // 需要替换
+        indexName: 'cc-index', // 需要替换
         placeholder: '请输入关键词',
         // buttonText: '搜索'
     },
