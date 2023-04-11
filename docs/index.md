@@ -14,6 +14,9 @@ hero:
     - theme: alt
       text: 配置说明
       link: /config
+    - theme: alt
+      text: 接口文档
+      link: /api
 
 features:
   - title: 产品介绍
