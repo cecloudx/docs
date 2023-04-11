@@ -34,4 +34,4 @@
 ![fig_ios](https://user-images.githubusercontent.com/66816440/224484780-cfe28b08-5e7c-43c0-a66c-db2399e2ab7a.png)
 
 * [macOS](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466)
-* [MIUI TV](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod4.0.apk)注：如果此应用不兼容，可以下载上面Andriod的版本依次测试
+* [MIUI TV](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod4.0.apk)注：如果此应用不兼容，可以下载上面Andriod的版本依次测试，部门MIUI TV不能识别.apk文件，需要修改后缀.apk1后再用U盘安装

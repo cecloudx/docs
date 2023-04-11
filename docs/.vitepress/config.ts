@@ -24,11 +24,11 @@ export default defineConfig({
       { text: '首页', link: '/' },
 
       {text: '版本',
-      items: [
-        { text: 'v1.0', link: '/start' },
-        { text: 'v1.2', link: '/start' },
-        { text: 'v1.9', link: '/start' },
+      items: [     
         { text: 'v2.0', link: '/start' },
+        { text: 'v1.9', link: '/start' },
+        { text: 'v1.2', link: '/start' },
+        { text: 'v1.0', link: '/start' },
         // { text: '愿景', link: '/vision' }
       ]}    
 
@@ -39,8 +39,10 @@ export default defineConfig({
         text: '文档',
         items: [
           { text: '快速开始', link: '/start' },
-          { text: '配置说明', link: '/config' },
-          { text: '接口文档', link: '/api' }
+          { text: '下载', link: '/download' },
+          { text: '配置', link: '/config' },
+          { text: '接口', link: '/api' }
+
         ]
       }
     ],
