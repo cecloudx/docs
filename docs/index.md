@@ -12,10 +12,10 @@ hero:
       text: 快速开始
       link: /start
     - theme: alt
-      text: 配置说明
+      text: 配置
       link: /config
     - theme: alt
-      text: 接口文档
+      text: 接口
       link: /api
 
 features:
