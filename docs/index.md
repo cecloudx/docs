@@ -4,12 +4,14 @@ layout: home
 
 hero:
   name: "工一数字"
-  text: "Civil Engineering Cloud"
-  tagline: 工一数字 | 用数字技术重塑传统工程
+  # text: "Civil Engineering Cloud"
+  # tagline: 工一数字 | 用数字技术重塑传统工程
+  tagline: 用数字技术重塑传统工程
+
   actions:
     - theme: brand
       text: 工一云电脑
-      link: /markdown-examples
+      link: /cc
     # - theme: alt
     #   text: 工一云电脑
     #   link: /api-examples
