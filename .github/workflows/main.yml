@@ -33,6 +33,10 @@ jobs:
         uses: actions/deploy-pages@v1
         #增加
         with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          branch: main
+          folder: docs/.vitepress/dist
+          clean: true
           publish_branch: gh-pages
 
 
