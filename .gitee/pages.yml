@@ -1,5 +1,5 @@
 pages:
   - path: /
     action: serve
-    branch: main
+    branch: gh-pages
     dir: docs/.vitepress/dist
