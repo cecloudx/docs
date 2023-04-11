@@ -28,20 +28,18 @@ jobs:
       - uses: actions/upload-pages-artifact@v1
         with:
           path: docs/.vitepress/dist
+      # - name: Deploy
+      #   id: deployment
+      #   uses: actions/deploy-pages@v1
+
       - name: Deploy
-        id: deployment
-        uses: actions/deploy-pages@v1
-        #增加
-        # with:
-        #   token: ${{ secrets.ACCESS_TOKEN }}
-        #   branch: main
-        #   folder: docs/.vitepress/dist
-        #   clean: true
-        #   publish_branch: gh-pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.ACCESS_TOKEN }}
+          github_token: ${{ secrets.ACCESS_TOKEN }}
           publish_dir: docs/.vitepress/dist
           publish_branch: gh-pages
+          force_orphan: true
+
 
 
 
