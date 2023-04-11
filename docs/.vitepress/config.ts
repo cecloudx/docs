@@ -12,7 +12,10 @@ export default defineConfig({
 
     outlineTitle: '本页目录',
     // outline:2,
-
+    footer: {
+      // message: 'Released under the MIT License.',
+      copyright: 'Copyright © 工一数字'
+    },
 
     // algolia: {
     //     appId: 'N26XKP71HQ', // 需要替换
