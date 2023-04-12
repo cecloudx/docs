@@ -10,22 +10,22 @@
 
 <div align="center">各设备推荐的连接方式表</div>
 
-|操作系统       |@电脑                      |平板      |手机|电视/智能|单片机  |零瘦终端|
-|---------------|--------------------------------|----------|----|-------|-------|---------|
-|Windows        |@All                    |@All      |   |       |          |       |
-|Andriod        |                                |APP, 浏览器|APP|APP    |        |       |
-|iOS            |                                |          |APP|        |        |       |
-|iPadOS         |                                |APP, 浏览器|   |       |        |       |
-|macOS          |APP, 浏览器                      |          |   |       |        |       |
-|ChromeOS       |                                |APP, 浏览器|APP|        |        |       |
-|HarmonyOS      |                                |APP, 浏览器|APP|        |        |       |
-|MIUI OS       |                                |APP, 浏览器|APP|        |        |       |
-|MIUI TV       |                                |           |   |APP       |        |       |
-|WinPhoneOS     |                                |          |APP|         |        |       |
-|RaspBerryOS    |                                |          |   |         |定制程序|       |
-|ThinOS         |                                |           |  |         |       |定制程序|
-|Linux Desktop  |浏览器                          |浏览器     |   |         |       |       |
-|Linux Server   |定制程序                        |           |  |         |定制程序|定制程序|
+|操作系统       |@电脑                             |平板      |手机|智能电视|智能投影|单片机  |零终端|瘦终端|
+|---------------|--------------------------------|----------|----|-------|-------|-------|---------|-------|
+|Windows        |@All                            |@All      |   |       |       |          |       |       |
+|Andriod        |                                |APP, 浏览器|APP|APP    |APP    |        |       |       |
+|iOS            |                                |          |APP|        |       |        |       |       |
+|iPadOS         |                                |APP, 浏览器|   |       |       |        |       |       |
+|macOS          |APP, 浏览器                      |          |   |       |       |        |       |       |
+|ChromeOS       |                                |APP, 浏览器|APP|        |       |        |       |       |
+|HarmonyOS      |                                |APP, 浏览器|APP|        |       |        |       |       |
+|MIUI OS       |                                |APP, 浏览器|APP|        |       |        |       |       |
+|MIUI TV       |                                |           |   |APP     |APP       |        |       |     |
+|WinPhoneOS     |                                |          |APP|         |       |        |       |       |
+|RaspBerryOS    |                                |          |   |         |       |定制程序|       |       |
+|ThinOS         |                                |           |  |         |       |       |定制程序|       |
+|Linux Desktop  |浏览器                          |浏览器     |   |         |       |       |       |       |
+|Linux Server   |定制程序                        |           |  |         |       |定制程序|定制程序|       |
 
 注：
 * @电脑：包含台式、一体机、笔记本、微型电脑、虚拟机
