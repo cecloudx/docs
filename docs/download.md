@@ -7,10 +7,10 @@
 
 <!-- ![Andriod](/download/andriod.svg) -->
 
-<!-- <div style="display: flex;">
+<div style="display: flex;">
   <div style="flex: 1; background-color: #f2f2f2; padding: 20px;">aaaa</div>
   <div style="flex: 1; background-color: #ccc; padding: 20px;">bbbb</div>
-</div> -->
+</div>
 
 
 
