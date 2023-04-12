@@ -5,11 +5,11 @@
   * [Windows 10](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Windows.zip)注：初次运行需要翻墙，无法app无法正常启动
 * [Andriod/ChromeOS](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&pli=1) 注：此链接为Google市场，国内用户请点击以下链接下载
 
-![Andriod](/download/andriod.svg)
+<!-- ![Andriod](/download/andriod.svg) -->
 
 <div style="display: flex;">
-  <div style="flex: 1; background-color: #f2f2f2; padding: 20px;">![Andriod](/download/Andriod.svg)</div>
-  <div style="flex: 1; background-color: #ccc; padding: 20px;">![Andriod](/download/Andriod.svg)</div>
+  <div style="flex: 1; background-color: #f2f2f2; padding: 20px;">aaaa</div>
+  <div style="flex: 1; background-color: #ccc; padding: 20px;">bbbb</div>
 </div>
 
 
