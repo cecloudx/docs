@@ -59,14 +59,14 @@
 </figure>
 
 
-::: note 如果上诉链接无法下载，请点击以下历史版本下载。Andriod、MIUI、HarmonyOS、MIUI TV都参考Android历史版本
+:::Tip 如果上诉链接无法下载，请点击以下历史版本下载。Andriod、MIUI、HarmonyOS、MIUI TV都参考Android历史版本:::
 
 ### Windows历史版本
 
 * [Windows 11](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Windows.AppxBundle)
 * [Windows 10](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Windows.zip)
 
-::: 注 如果初次运行无法正常启动APP，则需要翻墙运行一次即可
+:::注 如果初次运行无法正常启动APP，则需要翻墙运行一次即可:::
 
 ### Android历史版本
 
