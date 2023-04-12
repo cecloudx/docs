@@ -1,19 +1,20 @@
 
-/* figure {
+figure {
   display: inline-block;
   margin: 0 80px 80px 0;
   text-align: center;
+  justify-content: space-between;
 }
 img {
   max-width: 100%;
   height: 100px;
 }
-*/
+
 figcaption {
   margin-top: 10px;
 } 
 
-
+/* 
 .image-container {
   display: flex;
   justify-content: space-between;
@@ -24,4 +25,4 @@ figcaption {
 }
 .image-container img:not(:first-child):not(:last-child) {
   flex-grow: 2;
-}
+} */

@@ -4,58 +4,57 @@
 # APP下载
 
 
-<!-- <figure>
-  <img src="/images/andriod.svg" alt="image1">
-  <figcaption>这是第一张图片</figcaption>
-</figure> -->
-<div class="image-container">
+<figure>
   <a href="https://apps.microsoft.com/store/detail/microsoft-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/9WZDNCRFJ3PS">
     <img src="/images/andriod.svg" alt="Windows">
   </a>
   <figcaption>Windows</figcaption>
-</div>
+</figure>
 
-<div class="image-container">
+
+<figure>
   <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod_Latest.apk">
     <img src="/images/andriod.svg" alt="Andriod">
   </a>
   <figcaption>Andriod</figcaption>
-</div>
+</figure>
 
-<div class="image-container">
+
+<figure>
   <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod_Latest.apk">
     <img src="/images/andriod.svg" alt="MIUI">
   </a>
   <figcaption>MIUI</figcaption>
-</div>
+</figure>
 
-<div class="image-container">
+<figure>
   <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_HarmonyOS.apk">
     <img src="/images/andriod.svg" alt="HarmonyOS">
   </a>
   <figcaption>HarmonyOS</figcaption>
-</div>
+</figure>
 
-<div class="image-container">
+<figure>
   <a href="https://apps.apple.com/cn/app/microsoft-yuan-cheng-zhuo/id714464092">
     <img src="/images/andriod.svg" alt="iOS/iPadOS">
   </a>
   <figcaption>iOS/iPadOS</figcaption>
-</div>
+</figure>
 
-<div class="image-container">
+<figure>
   <a href="https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466">
     <img src="/images/andriod.svg" alt="macOS">
   </a>
   <figcaption>macOS</figcaption>
-</div>
+</figure>
 
-<div class="image-container">
+
+<figure>
   <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod4.0.apk">
     <img src="/images/andriod.svg" alt="MIUI TV">
   </a>
   <figcaption>MIUI TV</figcaption>
-</div>
+</figure>
 
 
 注：
