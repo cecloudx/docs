@@ -1,28 +1,10 @@
-
-figure {
-  display: inline-block;
-  margin: 40px;
-  text-align: center;
-  /* justify-content: space-between; */
-}
-img {
-  max-width: 100%;
-  height: 100px;
-}
-
-figcaption {
-  margin-top: 10px;
-} 
-
-/* 
-.image-container {
+.container {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
-.image-container img {
-  flex-grow: 1;
-  max-width: 100%;
+
+img {
+  flex-basis: 23%;
+  max-width: 150px;
 }
-.image-container img:not(:first-child):not(:last-child) {
-  flex-grow: 2;
-} */
