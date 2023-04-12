@@ -1,17 +1,5 @@
 import { defineConfig } from 'vitepress'
 
-import type { UserConfig } from 'vitepress'
-
-const config: UserConfig = {
-  lang: 'zh-CN',
-  title: '工一数字',
-  description: 'Civil Engeneering Cloud',
-  themeConfig: {
-    // 配置主题
-  },
-  // 其他配置...
-}
-
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -28,6 +16,16 @@ export default defineConfig({
       // message: 'Released under the MIT License.',
       copyright: 'Copyright © 工一数字'
     },
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
+
+    // darkModeSwitch: true, // 启用夜间模式切换按钮
+    darkModeSwitchLabel: '切换夜间模式', // 设置夜间模式切换按钮的标签文本
+    sidebarMenuLabel: '菜单',
+    returnToTopLabel: '回到顶部',
+    langMenuLabel: '切换语言',
 
     // algolia: {
     //     appId: 'N26XKP71HQ', // 需要替换
@@ -138,3 +136,5 @@ export default defineConfig({
     },
   }
 })
+
+
