@@ -7,9 +7,11 @@
 
 <!-- ![Andriod](/download/andriod.svg) -->
 
-<div style="display: flex;">
-  <div style="flex: 1; background-color: #f2f2f2; padding: 20px;">aaaa</div>
-  <div style="flex: 1; background-color: #ccc; padding: 20px;">bbbb</div>
+<div style="display: flex; height: 150px">
+  <div style="flex: 2; padding: 20px;">
+  [Andriod/ChromeOS](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&pli=1) 注：此链接为Google市场，国内用户请点击以下链接下载
+  </div>
+  <div style="flex: 1; width: 150px; height: 150px">![我的图片](/images/andriod.svg)</div>
 </div>
 
 
