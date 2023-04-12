@@ -6,22 +6,15 @@
 * [Andriod/ChromeOS](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&pli=1) 注：此链接为Google市场，国内用户请点击以下链接下载
 
 
-features:
-  - icon: /images/andriod.svg
-    title: 产品介绍
-    details: 工一云电脑是一种定制融合云产品及服务，是面向未来的AnyTime、AnyWhere、AnyDevice的一致性云办公与云教学解决方案。
 
-  - icon: /images/andriod.svg
-    title: 产品介绍
-    details: 工一云电脑是一种定制融合
 <!-- ![Andriod](/download/andriod.svg) -->
 
-<div style="display: flex; height: 150px">
+<!-- <div style="display: flex; height: 150px">
   <div style="flex: 2; padding: 20px;">
   [Andriod/ChromeOS](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&pli=1) 注：此链接为Google市场，国内用户请点击以下链接下载
   </div>
   <div style="flex: 1; width: 150px; height: 150px">![我的图片](/images/andriod.svg)</div>
-</div>
+</div> -->
 
 
 

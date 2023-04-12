@@ -17,6 +17,9 @@ hero:
     - theme: alt
       text: 下载
       link: /download
+    - theme: alt
+      text: 下载2
+      link: /downloads
     # - theme: alt
     #   text: 配置
     #   link: /config
