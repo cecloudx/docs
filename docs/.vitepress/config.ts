@@ -1,5 +1,17 @@
 import { defineConfig } from 'vitepress'
 
+import type { UserConfig } from 'vitepress'
+
+const config: UserConfig = {
+  lang: 'zh-CN',
+  title: '工一数字',
+  description: 'Civil Engeneering Cloud',
+  themeConfig: {
+    // 配置主题
+  },
+  // 其他配置...
+}
+
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
