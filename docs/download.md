@@ -45,16 +45,9 @@
     </a>
     <figcaption>MIUITV</figcaption>
   </div>
-
-  <!-- <img src="/images/andriod.svg" alt="">
-  <img src="/images/andriod.svg" alt="">
-  <img src="/images/andriod.svg" alt="">
-  <img src="/images/andriod.svg" alt="">
-  <img src="/images/andriod.svg" alt="">
-  <img src="/images/andriod.svg" alt="">
-  <img src="/images/andriod.svg" alt="">
-  <img src="/images/andriod.svg" alt=""> -->
 </div>
+
+<br/>
 
 :::tip
 如果上诉链接无法下载，请点击以下历史版本下载。Andriod、MIUI、HarmonyOS、MIUI TV都参考Android历史版本 
