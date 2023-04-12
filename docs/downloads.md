@@ -1,4 +1,5 @@
 ---
+layout: home
 
 features:
   - icon: /images/andriod.svg
