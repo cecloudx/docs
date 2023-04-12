@@ -34,8 +34,8 @@ export default defineConfig({
           appId: 'N26XKP71HQ',
           apiKey: 'b68973e86f1cea6fe107eecb587b3d40',
           indexName: 'cc-index',
-          locales: {
-            zh: {
+          // locales: {
+          //   zh: {
               placeholder: '搜索文档',
               translations: {
                 button: {
@@ -75,8 +75,8 @@ export default defineConfig({
                   }
                 }
               }
-            }
-          }
+          //   }
+          // }
         },
    
 
