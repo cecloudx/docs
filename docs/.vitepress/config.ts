@@ -7,7 +7,7 @@ export default defineConfig({
   title: "工一数字",
   description: "description",
   themeConfig: {
-    logo: '/logo.svg',
+    // logo: '/logo.svg',
     // siteTitle: false,
 
     outlineTitle: '本页目录',
@@ -21,6 +21,7 @@ export default defineConfig({
       next: '下一页'
     },
 
+    lastUpdatedText: '更新日期',
     // darkModeSwitch: true, // 启用夜间模式切换按钮
     darkModeSwitchLabel: '切换夜间模式', // 设置夜间模式切换按钮的标签文本
     sidebarMenuLabel: '菜单',
