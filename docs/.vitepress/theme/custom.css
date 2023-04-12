@@ -15,3 +15,10 @@ figcaption {
   margin-top: 10px;
   text-align: center;
 } 
+
+/* 修改 logo 的最大宽度为 100 像素，高度自适应 */
+.site-logo img {
+  filter: hue-rotate(180deg);
+  /* max-width: 100px;
+  height: auto; */
+}
