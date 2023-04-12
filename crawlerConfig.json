@@ -1,5 +1,4 @@
 {
-  // 新版vitepress，否则无法搜索
   "index_name": "cc-index", 
   "start_urls": ["https://cecloudx.github.io/docs/"], 
 
