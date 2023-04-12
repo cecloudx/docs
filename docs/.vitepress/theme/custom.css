@@ -1,10 +1,10 @@
-.container {
+.image-container {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
 
-img {
+.image-container img {
   flex-basis: 23%;
-  max-width: 150px;
+  max-width: 100px;
 }

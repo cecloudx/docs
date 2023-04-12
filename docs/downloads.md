@@ -4,7 +4,7 @@
 # APP下载  
 
 
-<div class="container">
+<div class="image-container">
   <img src="/images/andriod.svg" alt="">
   <img src="/images/andriod.svg" alt="">
   <img src="/images/andriod.svg" alt="">
