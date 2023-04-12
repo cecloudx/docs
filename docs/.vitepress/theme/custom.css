@@ -2,9 +2,10 @@
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  gap: 60px;
 }
 
-.image-container img {
+.image-container > div {
   flex-basis: 35%;
   max-width: 100px;
 }
