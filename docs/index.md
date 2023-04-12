@@ -17,12 +17,12 @@ hero:
     - theme: alt
       text: 下载
       link: /download
-    - theme: alt
-      text: 配置
-      link: /config
-    - theme: alt
-      text: 接口
-      link: /api
+    # - theme: alt
+    #   text: 配置
+    #   link: /config
+    # - theme: alt
+    #   text: 接口
+    #   link: /api
 
 features:
   - title: 产品介绍

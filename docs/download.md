@@ -5,7 +5,7 @@
   * [Windows 10](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Windows.zip)注：初次运行需要翻墙，无法app无法正常启动
 * [Andriod/ChromeOS](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&pli=1) 注：此链接为Google市场，国内用户请点击以下链接下载
 
-![fig_andriod_shop](https://user-images.githubusercontent.com/66816440/224484706-40e2135d-d09c-41e1-9a47-ec7233e05877.png)
+![fig_andriod_shop](https://user-images.githubusercontent.com/66816440/224484706-40e2135d-d09c-41e1-9a47-ec7233e05877.png)![fig_andriod_shop](https://user-images.githubusercontent.com/66816440/224484706-40e2135d-d09c-41e1-9a47-ec7233e05877.png)
 
   * [Andriod最新版](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod_Latest.apk)
 
