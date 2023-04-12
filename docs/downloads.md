@@ -1,14 +1,14 @@
----
-layout: home
+<figure class="image-row">
+  <img src="/images/android.png" alt="image1">
+  <figcaption>Image 1</figcaption>
+</figure>
 
-features:
-  - img: /images/andriod.png
-    title: 产品介绍
-    details: 工一云电脑是一种定制融合云产品及服务，是面向未来的AnyTime、AnyWhere、AnyDevice的一致性云办公与云教学解决方案。
+<figure class="image-row">
+  <img src="/images/android.png" alt="image2">
+  <figcaption>Image 2</figcaption>
+</figure>
 
-  - img: /images/andriod.png
-    icon: /images/andriod.png
-    title: 产品介绍
-    details: 工一云电脑是一种定制融合
-
----
+<figure class="image-row">
+  <img src="/images/android.png" alt="image3">
+  <figcaption>Image 3</figcaption>
+</figure>

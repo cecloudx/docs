@@ -1,0 +1,11 @@
+.image-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image-row img {
+    margin-right: 10px;
+    max-width: 100%;
+  }
+  
