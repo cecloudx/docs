@@ -68,7 +68,7 @@
 * [Windows 11](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Windows.AppxBundle)
 * [Windows 10](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Windows.zip)
 
-:::注
+:::tip
 如果初次运行无法正常启动APP，则需要翻墙运行一次即可
 :::
 
