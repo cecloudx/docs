@@ -8,7 +8,7 @@
 <div class="image-container">
   <div>
     <a href="https://apps.microsoft.com/store/detail/microsoft-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/9WZDNCRFJ3PS">
-      <img src="/images/windows.svg" alt="windows">
+      <img src="/images/Andriod.svg" alt="windows">
     </a>
     <figcaption>Windows</figcaption>
   </div>
