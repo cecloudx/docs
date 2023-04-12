@@ -10,3 +10,8 @@
   max-width: 120px;
   text-align: center;
 }
+
+figcaption {
+  margin-top: 10px;
+  text-align: center;
+} 
