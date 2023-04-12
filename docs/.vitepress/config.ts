@@ -6,10 +6,6 @@ export default defineConfig({
   base: "/docs/",
   title: "工一数字",
   description: "description",
-  head: [
-    ['link', { rel: 'stylesheet', href: '/styles/custom.css' }]
-  ],
-  
   themeConfig: {
     logo: '/logo.svg',
     // siteTitle: false,
