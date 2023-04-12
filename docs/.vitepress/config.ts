@@ -105,6 +105,7 @@ export default defineConfig({
         text: '文档',
         items: [
           { text: '快速开始', link: '/start' },
+          { text: '功能', link: '/features' },
           { text: '下载', link: '/download' },
           { text: '配置', link: '/config' },
           { text: '接口', link: '/api' }
