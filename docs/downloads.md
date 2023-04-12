@@ -1,14 +1,9 @@
-<figure class="image-row">
-  <img src="/images/android.png" alt="image1">
-  <figcaption>Image 1</figcaption>
+<figure>
+  <img src="/images/andriod.svg" alt="image1">
+  <figcaption>这是第一张图片</figcaption>
 </figure>
 
-<figure class="image-row">
-  <img src="/images/android.png" alt="image2">
-  <figcaption>Image 2</figcaption>
-</figure>
-
-<figure class="image-row">
-  <img src="/images/android.png" alt="image3">
-  <figcaption>Image 3</figcaption>
+<figure>
+  <img src="/images/andriod.svg" alt="image2">
+  <figcaption>这是第二张图片</figcaption>
 </figure>
