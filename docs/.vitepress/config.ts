@@ -103,8 +103,11 @@ export default defineConfig({
       {text: '版本',
       items: [     
         { text: 'v2.0', link: '/start' },
-        { text: 'v1.9', link: '/start' },
+        { text: 'v1.5', link: '/start' },
+        { text: 'v1.4', link: '/start' },
+        { text: 'v1.3', link: '/start' },
         { text: 'v1.2', link: '/start' },
+        { text: 'v1.1', link: '/start' },
         { text: 'v1.0', link: '/start' },
         // { text: '愿景', link: '/vision' }
       ]}    
