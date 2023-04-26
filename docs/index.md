@@ -35,32 +35,32 @@ features:
 
 
 
-hero:
-  name: "工一云电脑"
-  # text: "Civil Engineering Cloud"
-  tagline: 让工作更自由，让组织更高效
+# hero:
+#   name: "工一云电脑"
+#   # text: "Civil Engineering Cloud"
+#   tagline: 让工作更自由，让组织更高效
 
-  actions:
-    - theme: brand
-      text: 快速开始
-      link: /erp/start
-    - theme: alt
-      text: 功能
-      link: /erp/features
-    # - theme: alt
-    #   text: 配置
-    #   link: /config
-    # - theme: alt
-    #   text: 接口
-    #   link: /api
+#   actions:
+#     - theme: brand
+#       text: 快速开始
+#       link: /erp/start
+#     - theme: alt
+#       text: 功能
+#       link: /erp/features
+#     # - theme: alt
+#     #   text: 配置
+#     #   link: /config
+#     # - theme: alt
+#     #   text: 接口
+#     #   link: /api
 
-features:
-  - title: 产品介绍
-    details: 工一ERP是专门针对土木工程定制化开发的一套ERP系统，目前只开放了chatGPT模块。
-  # - title: 设备和系统支持
-  #   details: 支持各种电脑、平板、手机等设备；同时支持Windows、Andriod、iOS、iPadOS、macOS，HarmonyOS、MIUI等操作系统。
-  # - title: 核心优势
-  #   details: 自研云底座、自研融合云管理系统、自研3D支持与调优、云盘协同、工程项目管理、制定服务。
+# features:
+#   - title: 产品介绍
+#     details: 工一ERP是专门针对土木工程定制化开发的一套ERP系统，目前只开放了chatGPT模块。
+#   # - title: 设备和系统支持
+#   #   details: 支持各种电脑、平板、手机等设备；同时支持Windows、Andriod、iOS、iPadOS、macOS，HarmonyOS、MIUI等操作系统。
+#   # - title: 核心优势
+#   #   details: 自研云底座、自研融合云管理系统、自研3D支持与调优、云盘协同、工程项目管理、制定服务。
 
 ---
 
