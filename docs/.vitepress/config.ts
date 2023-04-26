@@ -114,7 +114,8 @@ export default defineConfig({
 
     ],
 
-    sidebar: [
+    sidebar: {
+      
       '/cc/': [
         {
           text: '工一云电脑',
@@ -126,7 +127,7 @@ export default defineConfig({
             { text: '配置', link: '/cc/config' },
             { text: '接口', link: '/cc/api' }
           ]
-        }
+        },
       ],
 
       '/erp/': [
@@ -144,7 +145,7 @@ export default defineConfig({
       ]
 
 
-    ],
+    },
 
 
     socialLinks: [
