@@ -135,11 +135,11 @@ export default defineConfig({
           text: '工一ERP',
           items: [
             { text: '快速开始', link: '/erp/' },
-            { text: '简介', link: '/erp/introduction' },
-            { text: '功能', link: '/erp/features' },
-            { text: '下载', link: '/erp/download' },
-            { text: '配置', link: '/erp/config' },
-            { text: '接口', link: '/erp/api' }
+            // { text: '简介', link: '/erp/introduction' },
+            // { text: '功能', link: '/erp/features' },
+            // { text: '下载', link: '/erp/download' },
+            // { text: '配置', link: '/erp/config' },
+            // { text: '接口', link: '/erp/api' }
           ]
         }
       ]
