@@ -102,8 +102,8 @@ export default defineConfig({
 
       {text: '文档',
       items: [     
-        { text: '工一云电脑', link: '/cc/start' },
-        { text: '工一ERP', link: '/erp/start' }
+        { text: '工一云电脑', link: '/cc/' },
+        { text: '工一ERP', link: '/erp/' }
         // { text: 'v1.4', link: '/start' },
         // { text: 'v1.3', link: '/start' },
         // { text: 'v1.2', link: '/start' },
@@ -115,7 +115,7 @@ export default defineConfig({
     ],
 
     sidebar: [
-
+      '/cc/': [
         {
           text: '工一云电脑',
           items: [
@@ -127,8 +127,21 @@ export default defineConfig({
             { text: '接口', link: '/cc/api' }
           ]
         }
+      ],
 
-
+      '/erp/': [
+        {
+          text: '工一ERP',
+          items: [
+            { text: '快速开始', link: '/erp/' },
+            { text: '简介', link: '/erp/introduction' },
+            { text: '功能', link: '/erp/features' },
+            { text: '下载', link: '/erp/download' },
+            { text: '配置', link: '/erp/config' },
+            { text: '接口', link: '/erp/api' }
+          ]
+        }
+      ]
 
 
     ],
