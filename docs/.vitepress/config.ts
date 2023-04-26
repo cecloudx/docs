@@ -100,32 +100,50 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
 
-      {text: '版本',
+      {text: '文档',
       items: [     
-        { text: 'v2.0', link: '/start' },
-        { text: 'v1.5', link: '/start' },
-        { text: 'v1.4', link: '/start' },
-        { text: 'v1.3', link: '/start' },
-        { text: 'v1.2', link: '/start' },
-        { text: 'v1.1', link: '/start' },
-        { text: 'v1.0', link: '/start' },
+        { text: '工一云电脑', link: '/cc/start' },
+        { text: '工一ERP', link: '/erp/start' }
+        // { text: 'v1.4', link: '/start' },
+        // { text: 'v1.3', link: '/start' },
+        // { text: 'v1.2', link: '/start' },
+        // { text: 'v1.1', link: '/start' },
+        // { text: 'v1.0', link: '/start' },
         // { text: '愿景', link: '/vision' }
       ]}    
 
     ],
 
     sidebar: [
-      {
-        text: '文档',
-        items: [
-          { text: '快速开始', link: '/start' },
-          { text: '功能', link: '/features' },
-          { text: '下载', link: '/download' },
-          { text: '配置', link: '/config' },
-          { text: '接口', link: '/api' }
+      '/cc/': [
+        {
+          text: '工一云电脑',
+          items: [
+            { text: '快速开始', link: '/cc/' },
+            { text: '简介', link: '/cc/introduction' },
+            { text: '功能', link: '/cc/features' },
+            { text: '下载', link: '/cc/download' },
+            { text: '配置', link: '/cc/config' },
+            { text: '接口', link: '/cc/api' }
+          ]
+        }
+      ],
 
-        ]
-      }
+      '/erp/': [
+        {
+          text: '工一ERP',
+          items: [
+            { text: '快速开始', link: '/erp/' },
+            { text: '简介', link: '/erp/introduction' },
+            { text: '功能', link: '/erp/features' },
+            { text: '下载', link: '/erp/download' },
+            { text: '配置', link: '/erp/config' },
+            { text: '接口', link: '/erp/api' }
+          ]
+        }
+      ]
+
+
     ],
 
 

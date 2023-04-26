@@ -3,20 +3,20 @@
 layout: home
 
 hero:
-  name: "工一云电脑"
+  name: "工一数字"
   # text: "Civil Engineering Cloud"
-  tagline: 让工作更自由，让组织更高效
+  tagline: 用数字技术重塑传统工程
 
-  actions:
-    - theme: brand
-      text: 快速开始
-      link: /start
-    - theme: alt
-      text: 功能
-      link: /features
-    - theme: alt
-      text: 下载
-      link: /download
+  # actions:
+  #   - theme: brand
+  #     text: 快速开始
+  #     link: /start
+  #   - theme: alt
+  #     text: 功能
+  #     link: /features
+  #   - theme: alt
+  #     text: 下载
+  #     link: /download
     # - theme: alt
     #   text: 配置
     #   link: /config
