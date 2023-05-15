@@ -149,11 +149,11 @@ export default defineConfig({
 
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/cecloudx/docs' },
+      { icon: 'github', link: 'https://github.com/cecodex/docs' },
     ],
 
     editLink: {
-      pattern: 'https://github.com/cecloudx/docs/edit/main/docs/:path',
+      pattern: 'https://github.com/cecodex/docs/edit/main/docs/:path',
       // text: 'Edit this page on GitHub'
       text: '在Github编辑'
     },
