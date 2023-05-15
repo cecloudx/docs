@@ -49,11 +49,11 @@ ALL[2]：代表APP, 浏览器, 订阅, 定制程序所有连接方式；
 4. 进入桌面或应用后，顶部会出现一个鼠标键盘选项，移动端的鼠标操作分触屏模式和鼠标模式，根据习惯选择对应的模式即可。
 <div class="div1" >
    <div class="div2">
-    <video controls height="100%" width="250px"
+    <video controls height="100%" width="400px"
      src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/IOS.mp4"></video>
    </div>
-   <div class="div2" style="margin-left: 10px;">
-    <video controls height="100%" width="304px" style=" float: left;"
+   <div class="div2">
+    <video controls height="100%" width="400px" style="float:left;" style="margin-left: 10px;
      src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/%E5%AE%89%E5%8D%93.mp4">
     </video>
    </div>
