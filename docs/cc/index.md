@@ -48,7 +48,7 @@ ALL[2]：代表APP, 浏览器, 订阅, 定制程序所有连接方式；
 3. 点击桌面或应用会弹出一个连接选项框，点击“连接”；
 4. 进入桌面或应用后，顶部会出现一个鼠标键盘选项，移动端的鼠标操作分触屏模式和鼠标模式，根据习惯选择对应的模式即可。
 
-<div style="dispaly:grid;">
+<div id="VideoClass">
   <video width="100px" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/IOS.mp4"></video>
   <video width="100px" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/IOS.mp4"></video>
 </div>
