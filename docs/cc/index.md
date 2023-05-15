@@ -59,16 +59,7 @@ APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘�
 1. H5浏览器只需输入`https://cc.cec.cc`，输入用户名和密码进行登录；  
 2. 登陆到资源页面可就以访问远程云应用和云电脑了，部分应用不能支持，可以采用登陆桌面方式进行访问；
 3. 点击进入云应用或云电脑，图为H5浏览器的嵌入式访问效果。
-<iframe 
-src="视频或者网页路径" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+
 
 
 :::warning 注意  
@@ -80,7 +71,7 @@ width=800>
 1. 控制面板打开RemoteApp与桌面连接；
 2. 按照向导输入URL地址，外网输入`https://ccg.cec.cc:88`，内网输入`https://cc.cec.cc`；
 3. 最后就可在开始程序菜单直接访问远程应用和桌面。
-
+<video src="https://www.bilibili.com/video/BV1Us4y117on/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=827f02326f65ae90aaf4504412920c2a"></video>
 :::warning 注意  
 支持调用云应用访问本地文件；  
 支持直接远程打印和本地磁盘访问，打印店远程打印不要保存密码；  
