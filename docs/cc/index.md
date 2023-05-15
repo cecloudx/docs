@@ -59,6 +59,17 @@ APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘�
 1. H5浏览器只需输入`https://cc.cec.cc`，输入用户名和密码进行登录；  
 2. 登陆到资源页面可就以访问远程云应用和云电脑了，部分应用不能支持，可以采用登陆桌面方式进行访问；
 3. 点击进入云应用或云电脑，图为H5浏览器的嵌入式访问效果。
+<iframe 
+src="视频或者网页路径" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
+
 
 :::warning 注意  
 用Shift键切换中英文。如果云电脑不支持中文，需要点击右上角“设置”按钮，启用输入法编辑器“开”，回到应用或桌面；  
