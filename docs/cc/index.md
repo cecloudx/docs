@@ -59,7 +59,7 @@ APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘�
      src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/IOS.mp4"></video>
    </div>
    <div class="div2" style="flex: 1;">
-    <video controls height="100px" width="400px" style="margin-left: 10px;"
+    <video controls height="100px" width="304px" style="margin-left: 10px;"
      src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/%E5%AE%89%E5%8D%93.mp4">
     </video>
    </div>
