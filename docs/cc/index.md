@@ -47,18 +47,18 @@ ALL[2]：代表APP, 浏览器, 订阅, 定制程序所有连接方式；
 2. 然后点击右上角的“下一步”，等待加载一两秒钟，点击“工作区”，此时会显示所有的应用程序和桌面资源；
 3. 点击桌面或应用会弹出一个连接选项框，点击“连接”；
 4. 进入桌面或应用后，顶部会出现一个鼠标键盘选项，移动端的鼠标操作分触屏模式和鼠标模式，根据习惯选择对应的模式即可。
+5. 
 <div class="div1" >
    <div class="div2" style=" float: left;">
     <video controls height="100px" width="400px"
      src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/IOS.mp4"></video>
    </div>
-   <div class="div2">
+   <div class="div3">
     <video controls height="100px" width="400px" style="margin-left: 10px;"
      src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/%E5%AE%89%E5%8D%93.mp4">
     </video>
    </div>
   </div>
-
 :::warning 注意  
 APP方式不支持Win7；       
 APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘贴；   
