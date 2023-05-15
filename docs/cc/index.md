@@ -50,7 +50,7 @@ ALL[2]：代表APP, 浏览器, 订阅, 定制程序所有连接方式；
 
 <div id="VideoClass">
   <video height="100px" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/IOS.mp4"></video>
-  <video height="100px" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/IOS.mp4"></video>
+  <video height="100px" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/%E5%AE%89%E5%8D%93.mp4"></video>
 </div>
 
 
