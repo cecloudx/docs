@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/docs/",
-  title: "工一数字",
+  title: "工一",
   description: "description",
   themeConfig: {
     // logo: '/logo.svg',
@@ -14,7 +14,7 @@ export default defineConfig({
     // outline:2,
     footer: {
       // message: 'Released under the MIT License.',
-      copyright: 'Copyright © 工一数字'
+      copyright: 'Copyright © 工一'
     },
     docFooter: {
       prev: '上一页',
