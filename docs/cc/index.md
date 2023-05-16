@@ -55,12 +55,12 @@ APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘�
 
 <div class="div1" style="display: flex;">
    <div>
-    <video controls poster="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/1.jpg"
+    <video controls poster="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/ios.jpg"
      src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/ios.mp4"></video>
    </div>
    <div>
-    <video controls poster="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/2.jpg"
-     src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/%E5%AE%89%E5%8D%93.mp4">
+    <video controls poster="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/andriod.jpg"
+     src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/andriod.mp4">
     </video>
    </div>
   </div>
