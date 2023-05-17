@@ -53,6 +53,15 @@ APP方式不支持Win7；
 APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘贴；   
 :::
 
+<div style="display: flex;">
+ <div>
+  <video controls poster="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/andriod.jpg" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/andriod.mp4"></video>
+ </div>
+ <div>
+  <video controls poster="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/ios.jpg" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/ios.mp4"></video>
+ </div>
+</div>
+
 ## 连接方式2: 浏览器
 浏览器分为主流的H5浏览器和传统IE浏览器
 ### H5浏览器
@@ -90,6 +99,9 @@ APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘�
 支持直接远程打印和本地磁盘访问，打印店远程打印不要保存密码；  
 打开第一个云应用或云电脑时需要输入密码。技巧：保持至少一个不关闭，后续打开默认免密；  
 :::
+
+
+<video controls poster="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/subscript.jpg" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/subscript.mp4"></video>
 
 
 ## 连接方式4: 定制程序
