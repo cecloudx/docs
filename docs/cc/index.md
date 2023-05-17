@@ -53,7 +53,7 @@ APP方式不支持Win7；
 APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘贴；   
 :::
 
-<div style="display: flex;">
+<div class="div1" style="display: flex;">
  <div>
   <video controls poster="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/andriod.jpg" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/andriod.mp4"></video>
  </div>
