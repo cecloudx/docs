@@ -1,9 +1,9 @@
----
+![image](https://github.com/cecloudx/docs/assets/127672605/0cd6aa4f-50b2-4f5e-87e8-6c6cee396f1d)---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "工一"
+  name: "工一云电脑"
   # text: "Civil Engineering Cloud"
   tagline: 用数字技术重塑传统工程
 
