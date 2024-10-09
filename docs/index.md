@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "工一"
-  # text: "Civil Engineering Cloud"
-  tagline: 用数字技术重塑传统工程
+  name: "工一云电脑"
+  # text: "CELL COMPUTRON"
+  tagline: 传统电脑终结者
 
   actions:
     - theme: brand
