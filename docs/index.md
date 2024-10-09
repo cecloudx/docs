@@ -1,9 +1,9 @@
-![image](https://github.com/cecloudx/docs/assets/127672605/0cd6aa4f-50b2-4f5e-87e8-6c6cee396f1d)---
+---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "工一云电脑"
+  name: "工一"
   # text: "Civil Engineering Cloud"
   tagline: 用数字技术重塑传统工程
 
@@ -68,4 +68,3 @@ features:
 #   #   details: 自研云底座、自研融合云管理系统、自研3D支持与调优、云盘协同、工程项目管理、制定服务。
 
 ---
-
