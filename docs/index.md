@@ -11,9 +11,6 @@ hero:
     - theme: brand
       text: 工一云电脑
       link: /cc/
-    - theme: alt
-      text: 工一ERP
-      link: /erp/
 
 
 features:
