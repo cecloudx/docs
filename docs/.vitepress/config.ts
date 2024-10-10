@@ -42,9 +42,9 @@ export default defineConfig({
 
     
         algolia: {
-          appId: 'N26XKP71HQ',
-          apiKey: 'b68973e86f1cea6fe107eecb587b3d40',
-          indexName: 'cc-index',
+          appId: '73IJU6ADKC',
+          apiKey: '7e4405efbed23a4f714816d23ca1302a',
+          indexName: 'docs-index',
           // locales: {
           //   zh: {
               placeholder: '搜索文档',
