@@ -75,7 +75,7 @@ jobs:
 
       - name: Sync gh-pages branch to ECS
         run: |
-          scp -r ./ root@47.106.197.22:/var/www/html/docs
+          scp -r /github/workspace/* root@47.106.197.22:/var/www/html/docs
 
           
 
