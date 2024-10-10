@@ -68,10 +68,16 @@ jobs:
         uses: webfactory/ssh-agent@v0.5.3
         with:
           ssh-private-key: ${{ secrets.ECS_SSH_KEY }}
+          
+      - name: Add ECS host to known_hosts
+        run: |
+          ssh-keyscan -H 47.106.197.22 >> ~/.ssh/known_hosts
 
       - name: Sync gh-pages branch to ECS
         run: |
           scp -r ./ root@47.106.197.22:/var/www/html/docs
+
+          
 
 
 
