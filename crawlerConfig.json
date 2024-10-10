@@ -1,5 +1,5 @@
 {
-  "index_name": "cc-index", 
+  "index_name": "docs-index", 
   "start_urls": ["https://cecloudx.github.io/docs/"], 
 
   "selectors": {
