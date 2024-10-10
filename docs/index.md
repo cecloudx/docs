@@ -9,7 +9,7 @@ hero:
 
   actions:
     - theme: brand
-      text: 工一云电脑
+      text: 快速开始
       link: /cc/
 
 
