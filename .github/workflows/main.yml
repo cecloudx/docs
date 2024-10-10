@@ -35,7 +35,7 @@ jobs:
       - name: publish gp-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_ACCESS_TOKEN }}
+          github_token: ${{ secrets.ACCESS_TOKEN }}
           publish_dir: docs/.vitepress/dist
           publish_branch: gh-pages
           force_orphan: true
