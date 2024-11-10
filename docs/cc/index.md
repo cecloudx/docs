@@ -15,8 +15,8 @@
 |操作系统       |电脑                          |平板      |手机|智能电视|智能投影|零/瘦终端|
 |---------------|--------------------------------|----------|----|-------|-------|-------|
 |Windows        |APP, 浏览器                     |APP, 浏览器|-  |-      |-     |-        |
-|HarmonyOS      |-                               |APP, 浏览器|APP|APP    |APP      |-       |
-|MIUI/HyperOS   |-                               |APP, 浏览器|APP|APP    |APP      |-       |
+|HarmonyOS      |-                               |APP, 浏览器|APP|APP    |APP      |-     |
+|MIUI/HyperOS   |-                               |APP, 浏览器|APP|APP    |APP      |-     |
 |Andriod/ChromeOS|APP, 浏览器                    |APP, 浏览器|APP|APP    |APP    |-       |
 |iOS/macOS      |APP, 浏览器                     |APP, 浏览器|APP|-       |-      |-       |
 |Linux Desktop  |APP, 浏览器                     |APP, 浏览器|-  |-       |-      |-      |
