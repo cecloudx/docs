@@ -18,7 +18,7 @@
 |HarmonyOS      |-                               |APP, 浏览器|APP|APP    |APP      |-     |
 |MIUI/HyperOS   |-                               |APP, 浏览器|APP|APP    |APP      |-     |
 |Andriod/ChromeOS|APP, 浏览器                    |APP, 浏览器|APP|APP    |APP    |-       |
-|iOS/macOS      |APP, 浏览器                     |APP, 浏览器|APP|-       |-      |-       |
+|iOS/macOS      |APP, 浏览器                     |APP, 浏览器|APP|-       |-      |-      |
 |Linux Desktop  |APP, 浏览器                     |APP, 浏览器|-  |-       |-      |-      |
 |Linux Server   |APP                             |-         |-  |-       |-      |APP    |
 :::tip 提示
