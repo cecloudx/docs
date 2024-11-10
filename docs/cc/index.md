@@ -46,6 +46,10 @@ APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘�
 3. 点击“个人云电脑”或应用会弹出一个连接选项框，点击“连接”；
 4. 进入桌面或应用后，顶部会出现一个鼠标键盘选项，移动端的鼠标操作分触屏模式和鼠标模式，根据习惯选择对应的模式即可。
 
+
+
+
+
 <!-- <div class="div1" style="display: flex;">
  <div>
   <video controls poster="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/andriod.jpg" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/andriod.mp4"></video>
