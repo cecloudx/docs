@@ -35,9 +35,9 @@ Windows系统APP又分为APPx2（同时使用终端电脑和云端电脑）和AP
 1. [下载APP](/download)，安装APP；
 2. 首次打开需要进行初始化设置:Ctrl+Alt+i:输入"http://xxx.cec.cc:662/"（'xxx.cec.cc'为服务器地址，根据实际替换），点击确定；
 3. 选择"账号密码登录"或者"微信扫描登录".
-:::warning 注意  
+<!-- :::warning 注意  
 APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘贴；   
-:::
+::: -->
 
 其他系统APP:
 本示例以Andriod手机为例：
