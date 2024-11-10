@@ -12,53 +12,50 @@
 <!-- <div align="center">各设备推荐的连接方式表</div> -->
 <figcaption>各设备推荐的连接方式表</figcaption>
 
-|操作系统       |电脑                          |平板      |手机|智能电视|智能投影|零/瘦终端|
-|---------------|--------------------------------|----------|----|-------|-------|-------|
-|Windows        |APP, 浏览器                     |APP, 浏览器|-  |-      |-     |-        |
-|HarmonyOS      |-                               |APP, 浏览器|APP|APP    |APP      |-     |
-|MIUI/HyperOS   |-                               |APP, 浏览器|APP|APP    |APP      |-     |
-|Andriod/ChromeOS|APP, 浏览器                    |APP, 浏览器|APP|APP    |APP    |-       |
-|iOS/macOS      |APP, 浏览器                     |APP, 浏览器|APP|-       |-      |-       |
-|Linux Desktop  |APP, 浏览器                     |APP, 浏览器|-  |-       |-      |-      |
-|Linux Server   |APP                             |-         |-  |-       |-      |APP    |
+|操作系统             |电脑          |平板      |手机|智能电视|智能投影|智能眼镜|零/瘦终端|
+|--------------------|--------------|----------|----|-------|-------|-------|-------|
+|Windows             |APP, 浏览器    |APP, 浏览器|-  |-      |-       |APP    |-     |
+|HarmonyOS           |-              |APP, 浏览器|APP|APP    |APP    |-       |-     |
+|MIUI/HyperOS        |-              |APP, 浏览器|APP|APP    |APP    |-       |-     |
+|Andriod/ChromeOS    |APP, 浏览器     |APP, 浏览器|APP|APP    |APP    |APP     |-     |
+|iOS/macOS           |APP, 浏览器     |APP, 浏览器|APP|-       |-     |APP     |-     |
+|Linux Desktop       |APP, 浏览器     |APP, 浏览器|-  |-       |-     |-      |-     |
+|Linux Server        |集成程序        |-         |-  |-       |-      |-      |集成程序|
 :::tip 提示
 电脑：包含台式、一体机、笔记本、微型电脑；    
 :::
-<!-- * Windows+台式/笔记本/微型电脑：浏览器、IE浏览器、订阅
-* Andriod/HarmonyOS/iOS+手机：APP客户端
-* Andriod/HarmonyOS/iPadOS/macOS/ChromeOS+平板/一体机/笔记本：APP客户端、浏览器
-* Linux Desktop(RaspBerryOS, Ubuntu, Debian, Centos, Redhat...)+单片机/虚拟机/台式/笔记本/微型电脑：浏览器
-* Linux Server(RaspBerryOS, Ubuntu, Debian, Centos, Redhat...)+单片机/虚拟机/台式/笔记本/微型电脑：定制程序
-* ThinOS(Dell, HP...)+瘦客户端：定制程序 -->
+
 
 ## 连接方式1: APP
-不同操作系统的APP客户端不同，分为WinAPP与其他系统APP
-WinAPP：
-以Windows桌面系统为例。首先根据系统点击以下对应的链接进行下载安装；
-1. [下载APP](/download)，安装WinAPP；
-2. 首次打开需要进行初始化设置:Ctrl+Alt+i:输入"http://xx.cec.cc:662/"，点击确定；
+不同操作系统的APP客户端不同，除了Windows系统，其他系统APP操作类似，以下分别介绍Windows系统APP和其他系统APP  
+
+Windows系统APP：
+Windows系统APP又分为APPx2（同时使用终端电脑和云端电脑）和APPx1（仅使用云端电脑）
+1. [下载APP](/download)，安装APP；
+2. 首次打开需要进行初始化设置:Ctrl+Alt+i:输入"http://xxx.cec.cc:662/"（'xxx.cec.cc'为服务器地址，根据实际替换），点击确定；
 3. 选择"账号密码登录"或者"微信扫描登录".
-
-其他系统APP:
-本示例以Andriod手机为例。首先根据系统点击以下对应的链接进行下载安装；
-1. [下载APP](/download)，安装APP后打开应用，点击右上角的加号，选择“添加工作区”，外网输入`https://ccg.cec.cc:88`，内网输入`https://cc.cec.cc`，用户账户点击下拉选择“添加用户账户”，输入个人账号`demo@cec.cc`和个人密码并点击保存；
-2. 然后点击右上角的“下一步”，等待加载一两秒钟，点击“工作区”，此时会显示所有的应用程序和桌面资源；
-3. 点击桌面或应用会弹出一个连接选项框，点击“连接”；
-4. 进入桌面或应用后，顶部会出现一个鼠标键盘选项，移动端的鼠标操作分触屏模式和鼠标模式，根据习惯选择对应的模式即可。
-
 :::warning 注意  
-APP方式不支持Win7；       
 APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘贴；   
 :::
 
-<div class="div1" style="display: flex;">
+其他系统APP:
+本示例以Andriod手机为例：
+1. [下载APP](/download)，安装APP后打开应用，点击底部加号，选择“添加工作区”，输入`xxx.cec.cc:666`（'xxx.cec.cc'为服务器地址，根据实际替换），会自动搜索弹出工作区URL
+2. 用户账户下拉选择“添加用户账户”，输入个人账号`13888888888`（'13888888888'替换为个人账号）和个人密码，最后点击保存；
+3. 最后点击右上角的“下一步”，此时会显示所有的应用程序和个人云电脑；
+3. 点击“个人云电脑”或应用会弹出一个连接选项框，点击“连接”；
+4. 进入桌面或应用后，顶部会出现一个鼠标键盘选项，移动端的鼠标操作分触屏模式和鼠标模式，根据习惯选择对应的模式即可。
+
+
+
+<!-- <div class="div1" style="display: flex;">
  <div>
   <video controls poster="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/andriod.jpg" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/andriod.mp4"></video>
  </div>
  <div>
   <video controls poster="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/ios.jpg" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/ios.mp4"></video>
  </div>
-</div>
+</div> -->
 
 ## 连接方式2: 浏览器
 浏览器分为主流的H5浏览器和传统IE浏览器
@@ -73,36 +70,8 @@ APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘�
 用Shift键切换中英文。如果云电脑不支持中文，需要点击右上角“设置”按钮，启用输入法编辑器“开”，回到应用或桌面；  
 ::: -->
 
-### IE浏览器
-适用于具有IE浏览器的windows系统。  
-<!-- #Windows终端可以通过IE浏览器连接，实际是系统自带了“远程桌面连接”APP客户端工具，通过浏览器调用工具打开远程应用或桌面。   -->
 
-1. 打开IE浏览器，地址栏输入`https://cc.cec.cc`，输入用户名和密码进行登录；
-2. 首次登录会提示保存密码，点击“是”，方便下次登陆；
-3. 首次登录还会提示是否运行加载项，点击“允许”，可以实现更佳访问云应用和云桌面体验；
-4. 非同域中电脑首次打开会提示信任发布者提示，勾选“不再询问我是否从此发布者进行远程连接”，可获得更佳的单点访问体验。
-
-:::warning 注意  
-支持直接远程打印；
-:::
-
-## 连接方式3: 订阅
-仅适用于windows系统。  
-1. 控制面板打开RemoteApp与桌面连接；
-2. 按照向导输入URL地址，外网输入`https://ccg.cec.cc:88`，内网输入`https://cc.cec.cc`；如果无效，需要输入完整地址，尾部加上`/rdweb/feed/webfeed.aspx`；
-3. 最后就可在开始程序菜单直接访问远程应用和桌面。
-
-:::warning 注意  
-支持调用云应用访问本地文件；  
-支持直接远程打印和本地磁盘访问，打印店远程打印不要保存密码；  
-打开第一个云应用或云电脑时需要输入密码。技巧：保持至少一个不关闭，后续打开默认免密；  
-:::
-
-
-<video controls poster="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/subscript.jpg" src="https://cec-cc.oss-cn-shenzhen.aliyuncs.com/subscript.mp4"></video>
-
-
-## 连接方式4: 定制程序
+## 连接方式3: 定制程序
 适用于非桌面系统或者thinos，一般为定制开发，普通用户无需关注。
 
 
