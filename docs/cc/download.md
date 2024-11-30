@@ -4,26 +4,26 @@
 <br/>
 <br/>
 <div class="image-container">
-  <div>
+  <div style="width: 200px;">
     <a href="https://apps.microsoft.com/store/detail/microsoft-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/9WZDNCRFJ3PS">
       <img src="/images/Windows.svg" alt="Windows">
     </a>
     <figcaption>Windows</figcaption>
   </div>
   
-  <div>
+  <div style="width: 200px;">
     <a href="/download/Remote_Desktop.apk">
       <img src="/images/HarmonyOS.svg" alt="HarmonyOS">
     </a>
     <figcaption>HarmonyOS</figcaption>
   </div>
-  <div>
+  <div style="width: 200px;">
     <a href="/download/Remote_Desktop.apk">
       <img src="/images/MIUI.svg" alt="MIUI">
     </a>
     <figcaption>MIUI/HyperOS</figcaption> 
   </div>
-  <div>
+  <div style="width: 200px;">
     <a href="/download/Remote_Desktop.apk">
       <img src="/images/Andriod.svg" alt="Andriod">
     </a>
@@ -31,13 +31,13 @@
   </div>
 
 
-  <div>
+  <div style="width: 200px;">
     <a href="https://apps.apple.com/cn/app/microsoft-yuan-cheng-zhuo/id714464092">
       <img src="/images/iOS.svg" alt="iOS">
     </a>
     <figcaption>iOS/iPadOS</figcaption>
   </div>
-  <div>
+  <div style="width: 200px;">
     <a href="https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466">
       <img src="/images/macOS.svg" alt="macOS">
     </a>
