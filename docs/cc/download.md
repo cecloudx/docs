@@ -11,7 +11,7 @@
     <figcaption>Windows</figcaption>
   </div>
   <div>
-    <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod_Latest.apk">
+    <a href="/downloads/Remote_Desktop_for_Andriod.apk">
       <img src="/images/Andriod.svg" alt="Andriod">
     </a>
     <figcaption>Andriod</figcaption>
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-
+<!--
 
 ### Windows历史版本
 
@@ -71,14 +71,14 @@
 :::
 
 ### Android历史版本
-
-<!-- * [Andriod/ChromeOS](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&pli=1) 注：此链接为Google市场，国内用户请点击以下链接下载 -->
+* [Andriod/ChromeOS](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&pli=1) 注：此链接为Google市场，国内用户请点击以下链接下载 
 * [Andriod 9.0+](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod9.0.apk)
 * [Andriod 8.0+](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod8.0.apk)
 * [Andriod 7.0+](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod7.0.apk)
 * [Andriod 6.0+](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod6.0.apk)
 * [Andriod 6.0+旧版兼容版](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod_Old.apk)
 * [Andriod 4.0+](https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod4.0.apk)
+-->
 
 
 
