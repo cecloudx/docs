@@ -10,24 +10,27 @@
     </a>
     <figcaption>Windows</figcaption>
   </div>
+  
   <div>
-    <a href="/downloads/Remote_Desktop_for_Andriod.apk">
-      <img src="/images/Andriod.svg" alt="Andriod">
-    </a>
-    <figcaption>Andriod</figcaption>
-  </div>
-  <div>
-    <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod_Latest.apk">
-      <img src="/images/MIUI.svg" alt="MIUI">
-    </a>
-    <figcaption>MIUI</figcaption> 
-  </div>
-  <div>
-    <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_HarmonyOS.apk">
+    <a href="/download/Remote_Desktop.apk">
       <img src="/images/HarmonyOS.svg" alt="HarmonyOS">
     </a>
     <figcaption>HarmonyOS</figcaption>
   </div>
+  <div>
+    <a href="/download/Remote_Desktop.apk">
+      <img src="/images/MIUI.svg" alt="MIUI">
+    </a>
+    <figcaption>MIUI/HyperOS</figcaption> 
+  </div>
+  <div>
+    <a href="/download/Remote_Desktop.apk">
+      <img src="/images/Andriod.svg" alt="Andriod">
+    </a>
+    <figcaption>Andriod/ChromeOS</figcaption>
+  </div>
+
+
   <div>
     <a href="https://apps.apple.com/cn/app/microsoft-yuan-cheng-zhuo/id714464092">
       <img src="/images/iOS.svg" alt="iOS">
@@ -40,12 +43,7 @@
     </a>
     <figcaption>macOS</figcaption>
   </div>
-  <div>
-    <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod4.0.apk">
-      <img src="/images/MIUITV.svg" alt="MIUITV">
-    </a>
-    <figcaption>MIUITV</figcaption>
-  </div>
+
 </div>
 
 <br/>
