@@ -69,6 +69,7 @@
     </a>
     <figcaption>HarmonyOS</figcaption>
   </div>
+
   <div>
     <a href="/download/HyperOS.apk">
       <img src="/images/HyperOS.svg" alt="HyperOS">
