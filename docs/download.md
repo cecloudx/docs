@@ -12,7 +12,7 @@
   </div>
   <div>
     <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod_Latest.apk">
-      <img src="/images/HyperOS.svg" alt="MIUI">
+      <img src="/images/HyperOS.svg" alt="MIUI/HyperOS">
     </a>
     <figcaption>MIUI/HyperOS</figcaption> 
   </div>
