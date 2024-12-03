@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,Q as r}from"./chunks/framework.c95f7d43.js";const m=JSON.parse('{"title":"工一云电脑","description":"","frontmatter":{},"headers":[],"relativePath":"erp/introduction.md"}'),o={name:"erp/introduction.md"},n=r("",8),i=[n];function c(d,s,h,l,_,p){return t(),e("div",null,i)}const f=a(o,[["render",c]]);export{m as __pageData,f as default};
