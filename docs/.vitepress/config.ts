@@ -102,7 +102,7 @@ export default defineConfig({
 
       {text: '文档',
       items: [     
-        { text: '工一云电脑', link: '/cc/' },
+        { text: 'V2.4.2', link: '/cc/' },
         // { text: '工一ERP', link: '/erp/' }
         // { text: 'v1.4', link: '/start' },
         // { text: 'v1.3', link: '/start' },
