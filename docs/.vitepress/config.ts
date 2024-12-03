@@ -98,10 +98,11 @@ export default defineConfig({
 
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '首页', link: '/cc/' },
+      { text: '首页', link: '/' },
 
       {text: '文档',
-      items: [     
+      items: [   
+        { text: 'Latest', link: '/' }, 
         { text: 'V2.4.2', link: '/cc/' },
         // { text: '工一ERP', link: '/erp/' }
         // { text: 'v1.4', link: '/start' },
