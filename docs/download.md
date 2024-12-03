@@ -12,21 +12,22 @@
   </div>
   <div>
     <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod_Latest.apk">
-      <img src="/images/Andriod.svg" alt="Andriod">
+      <img src="/images/HyperOS.svg" alt="MIUI">
     </a>
-    <figcaption>Andriod</figcaption>
-  </div>
-  <div>
-    <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod_Latest.apk">
-      <img src="/images/MIUI.svg" alt="MIUI">
-    </a>
-    <figcaption>MIUI</figcaption> 
+    <figcaption>MIUI/HyperOS</figcaption> 
   </div>
   <div>
     <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_HarmonyOS.apk">
       <img src="/images/HarmonyOS.svg" alt="HarmonyOS">
     </a>
     <figcaption>HarmonyOS</figcaption>
+  </div>
+  
+  <div>
+    <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod_Latest.apk">
+      <img src="/images/Andriod.svg" alt="Andriod">
+    </a>
+    <figcaption>Andriod</figcaption>
   </div>
   <div>
     <a href="https://apps.apple.com/cn/app/microsoft-yuan-cheng-zhuo/id714464092">
@@ -39,12 +40,6 @@
       <img src="/images/macOS.svg" alt="macOS">
     </a>
     <figcaption>macOS</figcaption>
-  </div>
-  <div>
-    <a href="https://tx.cec.cc/RDWeb/Pages/downloads/Microsoft_Remote_Desktop_for_Andriod4.0.apk">
-      <img src="/images/MIUITV.svg" alt="MIUITV">
-    </a>
-    <figcaption>MIUITV</figcaption>
   </div>
 </div>
 
