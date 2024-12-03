@@ -64,19 +64,19 @@
 
   
   <div>
-    <a href="/download/Remote_Desktop.apk">
+    <a href="/download/HarmonyOS.apk">
       <img src="/images/HarmonyOS.svg" alt="HarmonyOS">
     </a>
     <figcaption>HarmonyOS</figcaption>
   </div>
   <div>
-    <a href="/download/Remote_Desktop.apk">
-      <img src="/images/HyperOS.svg" alt="MIUI">
+    <a href="/download/HyperOS.apk">
+      <img src="/images/HyperOS.svg" alt="HyperOS">
     </a>
     <figcaption>MIUI/HyperOS</figcaption> 
   </div>
   <div>
-    <a href="/download/Remote_Desktop.apk">
+    <a href="/download/Andriod.apk">
       <img src="/images/Andriod.svg" alt="Andriod">
     </a>
     <figcaption>Andriod/ChromeOS</figcaption>
