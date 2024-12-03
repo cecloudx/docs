@@ -25,7 +25,19 @@
     <figcaption>Windows共享公共云电脑(SSC)</figcaption>
   </div>
 
+  <div>
+    <a href="/download/CEC_SPC.exe">
+      <img src="/images/Windows.svg" alt="Windows">
+    </a>
+    <figcaption>Windows共享私人云电脑(SPC)</figcaption>
+  </div>
 
+  <div>
+    <a href="/download/CEC_PLC.exe">
+      <img src="/images/Windows.svg" alt="Windows">
+    </a>
+    <figcaption>Windows共享端云两用云电脑(SLC)</figcaption>
+  </div>
 
 
 </div>
