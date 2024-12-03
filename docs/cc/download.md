@@ -11,6 +11,20 @@
     <figcaption>Windows个人云电脑（PC)</figcaption>
   </div>
   
+  <div>
+    <a href="/download/CEC_PLC.exe">
+      <img src="/images/Windows.svg" alt="Windows">
+    </a>
+    <figcaption>Windows个人端云两用云电脑(PLC)</figcaption>
+  </div>
+
+  <div>
+    <a href="/download/CEC_SSC.exe">
+      <img src="/images/Windows.svg" alt="Windows">
+    </a>
+    <figcaption>Windows共享公共云电脑(SSC)</figcaption>
+  </div>
+
 
 
 
