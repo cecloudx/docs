@@ -73,7 +73,7 @@
     <a href="/download/Remote_Desktop.apk">
       <img src="/images/HyperOS.svg" alt="MIUI">
     </a>
-    <figcaption>MIUI/HyperOS</figcaption> 
+    <figcaption>MIUI/HyperOS</figcaption>
   </div>
   <div>
     <a href="/download/Remote_Desktop.apk">
