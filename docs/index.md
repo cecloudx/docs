@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "工一云电脑"
-  text: "Cyber Eng Computron"
+  text: "Cyber Computron"
   tagline: 让每个组织都能享有极致云电脑
 
   actions:
