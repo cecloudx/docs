@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "工一云电脑"
-  text: "CELL COMPUTRON"
-  tagline: 传统电脑终结者
+  text: "Cyber Eng Computron"
+  tagline: 让每个组织都能享有极致云电脑
 
   actions:
     - theme: brand
