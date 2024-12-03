@@ -70,8 +70,7 @@ APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘�
 1. 浏览器只需输入`https://xxx.cec.cc:664`（'xxx.cec.cc'为服务器地址，根据实际替换），输入用户名和密码即可登录；  
 
 :::warning 注意  
-除了IE以外的H5浏览器，基本都支持。例如360、Edge、Opera、Chrome、Safari、Firefox浏览器等。
-云电脑里面用Shift键切换中英文。  
+云电脑切换中英文：Shift快捷键。  
 :::
 
 
