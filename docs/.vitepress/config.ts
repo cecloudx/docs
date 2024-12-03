@@ -121,8 +121,8 @@ export default defineConfig({
           text: '工一云电脑',
           items: [
             { text: '快速开始', link: '/cc/' },
-            { text: '功能', link: '/cc/features' },
             { text: '下载', link: '/cc/download' },
+            { text: '功能', link: '/cc/features' },
             { text: '配置', link: '/cc/config' },
             { text: '接口', link: '/cc/api' }
           ]
