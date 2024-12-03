@@ -103,16 +103,16 @@
 <br/>
 <br/>
 
-
+<!--
 :::tip
-如果上诉链接无法下载，请点击以下历史版本下载。Andriod、MIUI、HarmonyOS、MIUI TV都参考Android历史版本 
+如果上诉链接无法下载，请点击以下历史版本下载。Andriod、MIUI、HarmonyOS、MIUI TV都参考Android历史版本。Windows、HarmonyOS、MIUI/HyperOS、Andriod/ChromeOS、iOS/macOS、Linux
 :::
 
 
 <br/>
 <br/>
 
-<!--
+
 
 ### Windows历史版本
 
