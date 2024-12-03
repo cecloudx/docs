@@ -1,8 +1,9 @@
 # 快速开始
 
 ### 简介
-工一云电脑是一套支持VDI、VOI、IDV、TCI等多云融合架构解决方案，同时支持C/S和B/S架构，并可支持VNC、SPICE、RDP、ICA、PCoIP和自研CEDP多种桌面协议。
-工一云电脑APP和WEB版已经完全兼容电脑端和移动端，并可以支持Windows、HarmonyOS、MIUI/HyperOS、Andriod/ChromeOS、iOS/macOS、Linux等系统，但为了带给用户极致体验，工一云电脑采取了开放包容的理念，默认开启了VNC、SPICE、RDP通用桌面协议和CEDP自研桌面协议，使工一云电脑可兼容其他通用桌面APP，以下是工一推荐给用户的最佳连接方式（包含自研APP、自研WEB、自研定制程序和通用APP）。
+工一云电脑是一套支持VDI、VOI、IDV、TCI等多云融合架构解决方案，同时支持C/S和B/S架构，并可支持VNC、SPICE、RDP、ICA、PCoIP和自研CEDP多种桌面协议。  
+
+工一云电脑APP和WEB版已经完全兼容电脑端和移动端，并可以支持Windows、HarmonyOS、MIUI/HyperOS、Andriod/ChromeOS、iOS/macOS、Linux等系统，但为了带给用户极致体验，工一云电脑采取了开放包容的理念，默认开启了VNC、SPICE、RDP通用桌面协议和CEDP自研桌面协议，使工一云电脑可兼容其他通用桌面APP，以下是工一推荐给用户的最佳连接方式（包含自研APP、自研WEB、自研定制程序和通用APP）。  
 
 工一云电脑主要包含APP、浏览器两种连接方式。   
 
