@@ -69,7 +69,12 @@
     </a>
     <figcaption>HarmonyOS</figcaption>
   </div>
-
+  <div>
+    <a href="/download/Remote_Desktop.apk">
+      <img src="/images/HyperOS.svg" alt="HyperOS">
+    </a>
+    <figcaption>HyperOS</figcaption>
+  </div>
 
   <div>
     <a href="/download/Remote_Desktop.apk">
