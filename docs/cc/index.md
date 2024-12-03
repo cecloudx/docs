@@ -2,7 +2,7 @@
 
 ### 简介
 工一云电脑是一套支持VDI、VOI、IDV、TCI等多云融合架构解决方案，同时支持C/S和B/S架构，并可支持VNC、SPICE、RDP、ICA、PCoIP和自研CEDP多种桌面协议。
-工一云电脑APP和WEB版已经完全兼容电脑端和移动端，并可以支持Windows、HarmonyOS、MIUI/HyperOS、Andriod/ChromeOS、iOS/macOS、Linux等系统，但为了带给用户极致体验，工一云电脑采取了开放包容的理念，默认开启了VNC、SPICE、RDP通用桌面协议和CEDP自研桌面协议，使工一云电脑可兼容其他通用桌面APP，以下是工一推荐给用户的最佳连接方式（包含自研APP、自研WEB和通用APP）。
+工一云电脑APP和WEB版已经完全兼容电脑端和移动端，并可以支持Windows、HarmonyOS、MIUI/HyperOS、Andriod/ChromeOS、iOS/macOS、Linux等系统，但为了带给用户极致体验，工一云电脑采取了开放包容的理念，默认开启了VNC、SPICE、RDP通用桌面协议和CEDP自研桌面协议，使工一云电脑可兼容其他通用桌面APP，以下是工一推荐给用户的最佳连接方式（包含自研APP、自研WEB、自研定制程序和通用APP）。
 
 工一云电脑主要包含APP、浏览器两种连接方式。   
 
@@ -24,7 +24,7 @@
 |Andriod/ChromeOS    |APP, 浏览器     |APP, 浏览器|APP|APP    |APP     |-     |
 |iOS/macOS           |APP, 浏览器     |APP, 浏览器|APP|-      |APP     |-     |
 |Linux Desktop       |APP, 浏览器     |APP, 浏览器|-  |-      |-      |-     |
-|Linux Server        |集成程序        |-         |-  |-      |-      |集成程序|
+|Linux Server        |定制程序        |-         |-  |-      |-      |定制程序|
 :::tip 提示
 电脑：包含台式机、一体机、笔记本、微型电脑； 
 :::
@@ -61,7 +61,7 @@ APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘�
  </div>
 </div> -->
 
-## 连接方式2: 浏览器（自研）
+## 连接方式2: 浏览器
 1. 浏览器只需输入`https://xxx.cec.cc:664`（'xxx.cec.cc'为服务器地址，根据实际替换），输入用户名和密码即可登录；  
 
 :::warning 注意  
@@ -70,7 +70,7 @@ APP方式（Win10 21H2及以上）才支持本地电脑与云电脑的复制粘�
 :::
 
 
-## 连接方式3: 定制程序（自研）
+## 连接方式3: 定制程序
 适用于非桌面系统，一般为定制开发，普通用户无需关注。
 
 
