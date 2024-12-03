@@ -72,7 +72,7 @@
 
   <div>
     <a href="/download/HyperOS.apk">
-      <img src="/images/HyperOS.svg" alt="HyperOS">
+      <img src="/images/MIUI.svg" alt="HyperOS">
     </a>
     <figcaption>HyperOS</figcaption>
   </div>
