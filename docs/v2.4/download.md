@@ -57,6 +57,9 @@
     <a href="/download/Microsoft.AppxBundle">
       <img src="/images/Windows.svg" alt="Windows">
     </a>
+    <a href="https://apps.microsoft.com/store/detail/microsoft-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/9WZDNCRFJ3PS">
+      原始路径
+    </a>
     <figcaption>Windows</figcaption>
   </div>
 
