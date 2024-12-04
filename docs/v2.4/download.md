@@ -6,35 +6,35 @@
 <div class="image-container">
   <div>
     <a href="/download/CEC_PC.exe">
-      <img src="/images/Windows.svg" alt="Windows">
+      <img src="/images/CEC_Windows.svg" alt="Windows">
     </a>
-    <figcaption>Windows个人云电脑（PC)</figcaption>
+    <figcaption>Windows个人云电脑（PC）</figcaption>
   </div>
   
   <div>
     <a href="/download/CEC_PLC.exe">
-      <img src="/images/Windows.svg" alt="Windows">
+      <img src="/images/CEC_Windows.svg" alt="Windows">
     </a>
     <figcaption>Windows个人端云两用云电脑(PLC)</figcaption>
   </div>
 
   <div>
     <a href="/download/CEC_SSC.exe">
-      <img src="/images/Windows.svg" alt="Windows">
+      <img src="/images/CEC_Windows.svg" alt="Windows">
     </a>
     <figcaption>Windows共享公共云电脑(SSC)</figcaption>
   </div>
 
   <div>
     <a href="/download/CEC_SPC.exe">
-      <img src="/images/Windows.svg" alt="Windows">
+      <img src="/images/CEC_Windows.svg" alt="Windows">
     </a>
     <figcaption>Windows共享私人云电脑(SPC)</figcaption>
   </div>
 
   <div>
     <a href="/download/CEC_PLC.exe">
-      <img src="/images/Windows.svg" alt="Windows">
+      <img src="/images/CEC_Windows.svg" alt="Windows">
     </a>
     <figcaption>Windows共享端云两用云电脑(SLC)</figcaption>
   </div>
@@ -78,6 +78,10 @@
 
 
 </div>
+
+:::warning 注意  
+部分专有APP正在开发内测中，敬请期待；   
+:::
 <br/>
 <br/>
 <br/>
