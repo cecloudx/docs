@@ -44,6 +44,54 @@
 
 <br/>
 <br/>
+<br/>
+<div class="image-container">
+  <div>
+    <a href="">
+      <img src="/images/CEC_Windows.svg" alt="Windows">
+    </a>
+    <figcaption>Windows</figcaption>
+  </div>
+  <div>
+    <a href="">
+      <img src="/images/CEC_HarmonyOS.svg" alt="Windows">
+    </a>
+    <figcaption>HarmonyOS</figcaption>
+  </div>
+  
+  <div>
+    <a href="">
+      <img src="/images/CEC_HyperOS.svg" alt="MIUI/HyperOS">
+    </a>
+    <figcaption>MIUI/HyperOS</figcaption>
+  </div>
+
+  <div>
+    <a href="">
+      <img src="/images/CEC_Andriod.svg" alt="Andriod">
+    </a>
+    <figcaption>Andriod/ChromeOS</figcaption>
+  </div>
+
+  <div>
+    <a href="">
+      <img src="/images/CEC_iOS.svg" alt="iOS">
+    </a>
+    <figcaption>iOS/iPadOS</figcaption>
+  </div>
+
+  <div>
+    <a href="">
+      <img src="/images/CEC_macOS.svg" alt="macOS">
+    </a>
+    <figcaption>macOS</figcaption>
+  </div>
+
+
+</div>
+<br/>
+<br/>
+<br/>
 
 
 
@@ -67,12 +115,18 @@
     <a href="/download/HarmonyOS.apk">
       <img src="/images/HarmonyOS.svg" alt="HarmonyOS">
     </a>
+    <a href="https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&pcampaignid=web_share">
+      原始路径
+    </a>
     <figcaption>HarmonyOS</figcaption>
   </div>
 
   <div>
     <a href="/download/HyperOS.apk">
       <img src="/images/HyperOS.svg" alt="MIUI/HyperOS">
+    </a>
+    <a href="https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&pcampaignid=web_share">
+      原始路径
     </a>
     <figcaption>MIUI/HyperOS</figcaption>
   </div>
@@ -81,6 +135,9 @@
     <a href="/download/Andriod.apk">
       <img src="/images/Andriod.svg" alt="Andriod">
     </a>
+    <a href="https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&pcampaignid=web_share">
+      原始路径
+    </a>
     <figcaption>Andriod/ChromeOS</figcaption>
   </div>
 
@@ -88,12 +145,18 @@
     <a href="https://apps.apple.com/cn/app/microsoft-yuan-cheng-zhuo/id714464092">
       <img src="/images/iOS.svg" alt="iOS">
     </a>
+    <a href="https://apps.apple.com/cn/app/microsoft-yuan-cheng-zhuo/id714464092">
+      原始路径
+    </a>
     <figcaption>iOS/iPadOS</figcaption>
   </div>
 
   <div>
     <a href="https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466">
       <img src="/images/macOS.svg" alt="macOS">
+    </a>
+    <a href="https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466">
+      原始路径
     </a>
     <figcaption>macOS</figcaption>
   </div>
