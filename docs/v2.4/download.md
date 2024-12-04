@@ -40,18 +40,7 @@
   </div>
 
 
-</div>
 
-<br/>
-<br/>
-<br/>
-<div class="image-container">
-  <div>
-    <a href="">
-      <img src="/images/CEC_Windows.svg" alt="Windows">
-    </a>
-    <figcaption>Windows</figcaption>
-  </div>
   <div>
     <a href="">
       <img src="/images/CEC_HarmonyOS.svg" alt="Windows">
