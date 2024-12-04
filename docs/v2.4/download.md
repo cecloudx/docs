@@ -1,4 +1,4 @@
-# Windows APP下载  
+# 专用APP下载  
 
 <br/>
 <br/>
@@ -46,21 +46,23 @@
 <br/>
 
 
-# 其他系统 APP下载  
+
+# 通用APP下载  
 
 <br/>
 <br/>
 <br/>
 <div class="image-container">
   
-  <!--
+
   <div>
-    <a href="https://apps.microsoft.com/store/detail/microsoft-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/9WZDNCRFJ3PS">
+    <!-- <a href="https://apps.microsoft.com/store/detail/microsoft-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/9WZDNCRFJ3PS"> -->
+    <a href="/download/Microsoft.AppxBundle">
       <img src="/images/Windows.svg" alt="Windows">
     </a>
     <figcaption>Windows</figcaption>
   </div>
-  -->
+
 
   
   <div>
@@ -84,7 +86,6 @@
     <figcaption>Andriod/ChromeOS</figcaption>
   </div>
 
-
   <div>
     <a href="https://apps.apple.com/cn/app/microsoft-yuan-cheng-zhuo/id714464092">
       <img src="/images/iOS.svg" alt="iOS">
@@ -98,11 +99,17 @@
     <figcaption>macOS</figcaption>
   </div>
 
+
+
+
 </div>
 
 <br/>
 <br/>
-
+:::tip
+如果云电脑是Windows系统，且开启兼容模式，工一云电脑支持通用微软桌面APP访问工一云电脑；  
+所有APP均为官方APP，请放心安装；
+:::
 <!--
 :::tip
 如果上诉链接无法下载，请点击以下历史版本下载。Andriod、MIUI、HarmonyOS、MIUI TV都参考Android历史版本。Windows、HarmonyOS、MIUI/HyperOS、Andriod/ChromeOS、iOS/macOS、Linux
