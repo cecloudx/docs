@@ -53,18 +53,13 @@
 <br/>
 <br/>
 <div class="image-container">
-  
-
   <div>
-    <!-- <a href="https://apps.microsoft.com/store/detail/microsoft-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/9WZDNCRFJ3PS"> -->
     <a href="/download/Microsoft.AppxBundle">
       <img src="/images/Windows.svg" alt="Windows">
     </a>
     <figcaption>Windows</figcaption>
   </div>
 
-
-  
   <div>
     <a href="/download/HarmonyOS.apk">
       <img src="/images/HarmonyOS.svg" alt="HarmonyOS">
@@ -92,6 +87,7 @@
     </a>
     <figcaption>iOS/iPadOS</figcaption>
   </div>
+
   <div>
     <a href="https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466">
       <img src="/images/macOS.svg" alt="macOS">
